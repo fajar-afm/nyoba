@@ -1,1 +1,1 @@
-# ini repo untuk nyoba-nyoba
+# ini repository untuk nyoba-nyoba
